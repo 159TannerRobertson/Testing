@@ -6,10 +6,11 @@ use Illuminate\Database\Eloquent\Model;
 
 class Post extends Model
 {
-    // primary Key
+    //Table Name
+    protected $table = 'posts';
+    // Primary Key
     public $primaryKey = 'id';
     //Timestamps
-    public $timestamps = ture;
-
+    public $timestamps = true;
 }
 
