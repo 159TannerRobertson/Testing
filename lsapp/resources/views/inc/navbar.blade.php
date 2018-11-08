@@ -13,11 +13,11 @@
       </li>
     <div>
       <li class="nav-item">
-        <a class="nav-link" href="/about">About<span class="sr-only">(current)</span></a>
+        <a class="nav-link" href="/pickcampain">PickCampain<span class="sr-only">(current)</span></a>
       </li>
     </div>
       <li class="nav-item">
-        <a class="nav-link" href="/help">Help<span class="sr-only">(current)</span></a>
+        <a class="nav-link" href="/character">Character<span class="sr-only">(current)</span></a>
       </li>
     </ul>
   </div>
